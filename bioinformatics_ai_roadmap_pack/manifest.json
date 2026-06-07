@@ -1,0 +1,17 @@
+{
+  "updated": "2026-06-08",
+  "files": [
+    "README_START_HERE.md",
+    "00_MASTER_ROADMAP.md",
+    "01_WEEKLY_STUDY_PLAN.md",
+    "02_RESOURCE_CATALOG_EN_AR.md",
+    "03_PROJECT_PORTFOLIO.md",
+    "04_KEY_PAPERS_READING_MAP.md",
+    "05_BOOKS_AND_REFERENCES.md",
+    "06_TRENDS_2026_AI_BIOINFORMATICS.md",
+    "07_BIOINFORMATICS_TOOLKIT_CHECKLIST.md",
+    "08_CLAUDE_CODE_WORKFLOW.md",
+    "09_SOURCE_INDEX.md"
+  ],
+  "description": "Bioinformatics + AI roadmap pack for an AI/ML practitioner starting from minimal biology background."
+}

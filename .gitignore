@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Conda/Mamba
+.conda/
+
+# Data — never commit raw biological data
+data/raw/
+data/external/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.cram
+*.vcf
+*.vcf.gz
+*.bcf
+*.fasta
+*.fa
+*.fna
+*.faa
+*.gtf
+*.gff
+*.gff3
+
+# Large files
+*.h5
+*.hdf5
+*.h5ad
+*.parquet
+*.feather
+*.zarr/
+
+# Secrets / credentials
+.env
+*.pem
+*.key
+secrets/
+credentials/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Temp / scratch outputs
+scratch/
+tmp/
+temp/
